@@ -65,6 +65,14 @@ namespace DayTimeCheckerWinApp
             }
 
         }
+        //this is for test
+        /// <summary>
+        /// /?????????????????????????????///********88
+        /// </summary>
+        /// <param name="day"></param>
+        /// <param name="month"></param>
+        /// <param name="year"></param>
+        /// <returns></returns>
 
         //check format
         private bool isCorrectFormat(byte day, byte month, short year)

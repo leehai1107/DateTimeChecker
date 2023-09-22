@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Fall2023\\SWT\\DayTimeChecker\\DayTimeCheckerSolution\\DayTimeCheckerWinApp\\DayTimeCheckerWinApp.csproj",
+      "projectUniqueName": "D:\\reactjs_prj\\test\\DateTimeChecker\\DayTimeCheckerWinApp\\DayTimeCheckerWinApp.csproj",
       "projectName": "DayTimeCheckerWinApp",
-      "projectPath": "E:\\Fall2023\\SWT\\DayTimeChecker\\DayTimeCheckerSolution\\DayTimeCheckerWinApp\\DayTimeCheckerWinApp.csproj",
+      "projectPath": "D:\\reactjs_prj\\test\\DateTimeChecker\\DayTimeCheckerWinApp\\DayTimeCheckerWinApp.csproj",
       "packagesPath": "C:\\Users\\green\\.nuget\\packages\\",
-      "outputPath": "E:\\Fall2023\\SWT\\DayTimeChecker\\DayTimeCheckerSolution\\DayTimeCheckerWinApp\\obj\\",
+      "outputPath": "D:\\reactjs_prj\\test\\DateTimeChecker\\DayTimeCheckerWinApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\VisualStudio\\Shared\\NuGetPackages"
