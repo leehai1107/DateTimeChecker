@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "yxc5tVIj14jVSgMqHQgdvlff6ufJhHSERnAgP76nUxMPfedCQED3KIdI1EfiTJILWzvcAxGfVUpBR5h/lfxYGQ==",
+  "dgSpecHash": "dEGbEyDg9zddalhnwaR/coQ1h9hR5Llg7sLgdgdnfoddQ2FOe28QFg2m7EYZRV1VSCbxaZ9XnCfxO/n03Cl9pg==",
   "success": true,
   "projectFilePath": "E:\\Fall2023\\SWT\\DayTimeChecker\\DayTimeCheckerSolution\\DayTimeCheckerWinApp\\DayTimeCheckerWinApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\green\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\green\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\green\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\green\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

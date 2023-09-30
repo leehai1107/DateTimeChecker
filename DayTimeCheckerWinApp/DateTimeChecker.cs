@@ -67,7 +67,7 @@ namespace DayTimeCheckerWinApp
         }
 
         //check format
-        private bool isCorrectFormat(byte day, byte month, short year)
+        public bool isCorrectFormat(byte day, byte month, short year)
         {
 
             if (string.IsNullOrEmpty(txtDay.Text) || !byte.TryParse(txtDay.Text, out day))
@@ -93,7 +93,7 @@ namespace DayTimeCheckerWinApp
         }
 
         //check textbox out of range
-        private bool isValidRange(byte day, byte month, short year)
+        public bool isValidRange(byte day, byte month, short year)
         {
 
             if (day < 1 || day > 31)
@@ -119,7 +119,7 @@ namespace DayTimeCheckerWinApp
         }
 
         //check Day in Month
-        byte DayInMonth(short Year, byte Month)
+        public byte DayInMonth(short Year, byte Month)
         {
             byte Day = 0;
             if (Month == 1 || Month == 3 || Month == 5 || Month == 8 || Month == 7 || Month == 10
@@ -154,7 +154,7 @@ namespace DayTimeCheckerWinApp
         }
 
             //check valid date
-            private bool IsValidDate(byte Day, byte Month, short Year)
+            public bool IsValidDate(byte Day, byte Month, short Year)
         {
             if (Month >= 1 && Month <= 12)
             {

@@ -16,3 +16,11 @@ E:\Fall2023\SWT\DayTimeChecker\DayTimeCheckerSolution\DayTimeCheckerWinApp\obj\D
 E:\Fall2023\SWT\DayTimeChecker\DayTimeCheckerSolution\DayTimeCheckerWinApp\obj\Debug\net6.0-windows\DayTimeCheckerWinApp.pdb
 E:\Fall2023\SWT\DayTimeChecker\DayTimeCheckerSolution\DayTimeCheckerWinApp\obj\Debug\net6.0-windows\DayTimeCheckerWinApp.genruntimeconfig.cache
 E:\Fall2023\SWT\DayTimeChecker\DayTimeCheckerSolution\DayTimeCheckerWinApp\obj\Debug\net6.0-windows\ref\DayTimeCheckerWinApp.dll
+E:\Fall2023\SWT\DayTimeChecker\DayTimeCheckerSolution\DayTimeCheckerWinApp\bin\Debug\net6.0-windows\NUnit3.TestAdapter.dll
+E:\Fall2023\SWT\DayTimeChecker\DayTimeCheckerSolution\DayTimeCheckerWinApp\bin\Debug\net6.0-windows\NUnit3.TestAdapter.pdb
+E:\Fall2023\SWT\DayTimeChecker\DayTimeCheckerSolution\DayTimeCheckerWinApp\bin\Debug\net6.0-windows\nunit.engine.dll
+E:\Fall2023\SWT\DayTimeChecker\DayTimeCheckerSolution\DayTimeCheckerWinApp\bin\Debug\net6.0-windows\nunit.engine.api.dll
+E:\Fall2023\SWT\DayTimeChecker\DayTimeCheckerSolution\DayTimeCheckerWinApp\bin\Debug\net6.0-windows\nunit.engine.core.dll
+E:\Fall2023\SWT\DayTimeChecker\DayTimeCheckerSolution\DayTimeCheckerWinApp\bin\Debug\net6.0-windows\testcentric.engine.metadata.dll
+E:\Fall2023\SWT\DayTimeChecker\DayTimeCheckerSolution\DayTimeCheckerWinApp\bin\Debug\net6.0-windows\nunit.framework.dll
+E:\Fall2023\SWT\DayTimeChecker\DayTimeCheckerSolution\DayTimeCheckerWinApp\obj\Debug\net6.0-windows\DayTimeCheckerWinApp.csproj.CopyComplete
