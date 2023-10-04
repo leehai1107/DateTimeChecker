@@ -24,3 +24,29 @@ E:\Fall2023\SWT\DayTimeChecker\DayTimeCheckerSolution\DayTimeCheckerWinApp\bin\D
 E:\Fall2023\SWT\DayTimeChecker\DayTimeCheckerSolution\DayTimeCheckerWinApp\bin\Debug\net6.0-windows\testcentric.engine.metadata.dll
 E:\Fall2023\SWT\DayTimeChecker\DayTimeCheckerSolution\DayTimeCheckerWinApp\bin\Debug\net6.0-windows\nunit.framework.dll
 E:\Fall2023\SWT\DayTimeChecker\DayTimeCheckerSolution\DayTimeCheckerWinApp\obj\Debug\net6.0-windows\DayTimeCheckerWinApp.csproj.CopyComplete
+D:\Studying\Ep Pi Ti\FALL 2023\SWT301\DateTimeChecker\DayTimeCheckerWinApp\bin\Debug\net6.0-windows\NUnit3.TestAdapter.dll
+D:\Studying\Ep Pi Ti\FALL 2023\SWT301\DateTimeChecker\DayTimeCheckerWinApp\bin\Debug\net6.0-windows\NUnit3.TestAdapter.pdb
+D:\Studying\Ep Pi Ti\FALL 2023\SWT301\DateTimeChecker\DayTimeCheckerWinApp\bin\Debug\net6.0-windows\nunit.engine.dll
+D:\Studying\Ep Pi Ti\FALL 2023\SWT301\DateTimeChecker\DayTimeCheckerWinApp\bin\Debug\net6.0-windows\nunit.engine.api.dll
+D:\Studying\Ep Pi Ti\FALL 2023\SWT301\DateTimeChecker\DayTimeCheckerWinApp\bin\Debug\net6.0-windows\nunit.engine.core.dll
+D:\Studying\Ep Pi Ti\FALL 2023\SWT301\DateTimeChecker\DayTimeCheckerWinApp\bin\Debug\net6.0-windows\testcentric.engine.metadata.dll
+D:\Studying\Ep Pi Ti\FALL 2023\SWT301\DateTimeChecker\DayTimeCheckerWinApp\bin\Debug\net6.0-windows\DayTimeCheckerWinApp.exe
+D:\Studying\Ep Pi Ti\FALL 2023\SWT301\DateTimeChecker\DayTimeCheckerWinApp\bin\Debug\net6.0-windows\DayTimeCheckerWinApp.deps.json
+D:\Studying\Ep Pi Ti\FALL 2023\SWT301\DateTimeChecker\DayTimeCheckerWinApp\bin\Debug\net6.0-windows\DayTimeCheckerWinApp.runtimeconfig.json
+D:\Studying\Ep Pi Ti\FALL 2023\SWT301\DateTimeChecker\DayTimeCheckerWinApp\bin\Debug\net6.0-windows\DayTimeCheckerWinApp.dll
+D:\Studying\Ep Pi Ti\FALL 2023\SWT301\DateTimeChecker\DayTimeCheckerWinApp\bin\Debug\net6.0-windows\DayTimeCheckerWinApp.pdb
+D:\Studying\Ep Pi Ti\FALL 2023\SWT301\DateTimeChecker\DayTimeCheckerWinApp\bin\Debug\net6.0-windows\nunit.framework.dll
+D:\Studying\Ep Pi Ti\FALL 2023\SWT301\DateTimeChecker\DayTimeCheckerWinApp\obj\Debug\net6.0-windows\DayTimeCheckerWinApp.csproj.AssemblyReference.cache
+D:\Studying\Ep Pi Ti\FALL 2023\SWT301\DateTimeChecker\DayTimeCheckerWinApp\obj\Debug\net6.0-windows\DayTimeCheckerWinApp.DateTimeChecker.resources
+D:\Studying\Ep Pi Ti\FALL 2023\SWT301\DateTimeChecker\DayTimeCheckerWinApp\obj\Debug\net6.0-windows\DayTimeCheckerWinApp.Properties.Resources.resources
+D:\Studying\Ep Pi Ti\FALL 2023\SWT301\DateTimeChecker\DayTimeCheckerWinApp\obj\Debug\net6.0-windows\DayTimeCheckerWinApp.csproj.GenerateResource.cache
+D:\Studying\Ep Pi Ti\FALL 2023\SWT301\DateTimeChecker\DayTimeCheckerWinApp\obj\Debug\net6.0-windows\DayTimeCheckerWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\Ep Pi Ti\FALL 2023\SWT301\DateTimeChecker\DayTimeCheckerWinApp\obj\Debug\net6.0-windows\DayTimeCheckerWinApp.AssemblyInfoInputs.cache
+D:\Studying\Ep Pi Ti\FALL 2023\SWT301\DateTimeChecker\DayTimeCheckerWinApp\obj\Debug\net6.0-windows\DayTimeCheckerWinApp.AssemblyInfo.cs
+D:\Studying\Ep Pi Ti\FALL 2023\SWT301\DateTimeChecker\DayTimeCheckerWinApp\obj\Debug\net6.0-windows\DayTimeCheckerWinApp.csproj.CoreCompileInputs.cache
+D:\Studying\Ep Pi Ti\FALL 2023\SWT301\DateTimeChecker\DayTimeCheckerWinApp\obj\Debug\net6.0-windows\DayTimeCheckerWinApp.csproj.CopyComplete
+D:\Studying\Ep Pi Ti\FALL 2023\SWT301\DateTimeChecker\DayTimeCheckerWinApp\obj\Debug\net6.0-windows\DayTimeCheckerWinApp.dll
+D:\Studying\Ep Pi Ti\FALL 2023\SWT301\DateTimeChecker\DayTimeCheckerWinApp\obj\Debug\net6.0-windows\refint\DayTimeCheckerWinApp.dll
+D:\Studying\Ep Pi Ti\FALL 2023\SWT301\DateTimeChecker\DayTimeCheckerWinApp\obj\Debug\net6.0-windows\DayTimeCheckerWinApp.pdb
+D:\Studying\Ep Pi Ti\FALL 2023\SWT301\DateTimeChecker\DayTimeCheckerWinApp\obj\Debug\net6.0-windows\DayTimeCheckerWinApp.genruntimeconfig.cache
+D:\Studying\Ep Pi Ti\FALL 2023\SWT301\DateTimeChecker\DayTimeCheckerWinApp\obj\Debug\net6.0-windows\ref\DayTimeCheckerWinApp.dll

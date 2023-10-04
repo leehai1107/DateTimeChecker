@@ -258,23 +258,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\green\\.nuget\\packages\\": {},
-    "D:\\VisualStudio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Fall2023\\SWT\\DayTimeChecker\\DayTimeCheckerSolution\\DayTimeCheckerWinApp\\DayTimeCheckerWinApp.csproj",
+      "projectUniqueName": "D:\\Studying\\Ep Pi Ti\\FALL 2023\\SWT301\\DateTimeChecker\\DayTimeCheckerWinApp\\DayTimeCheckerWinApp.csproj",
       "projectName": "DayTimeCheckerWinApp",
-      "projectPath": "E:\\Fall2023\\SWT\\DayTimeChecker\\DayTimeCheckerSolution\\DayTimeCheckerWinApp\\DayTimeCheckerWinApp.csproj",
-      "packagesPath": "C:\\Users\\green\\.nuget\\packages\\",
-      "outputPath": "E:\\Fall2023\\SWT\\DayTimeChecker\\DayTimeCheckerSolution\\DayTimeCheckerWinApp\\obj\\",
+      "projectPath": "D:\\Studying\\Ep Pi Ti\\FALL 2023\\SWT301\\DateTimeChecker\\DayTimeCheckerWinApp\\DayTimeCheckerWinApp.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\Studying\\Ep Pi Ti\\FALL 2023\\SWT301\\DateTimeChecker\\DayTimeCheckerWinApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\VisualStudio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\green\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -330,7 +330,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
