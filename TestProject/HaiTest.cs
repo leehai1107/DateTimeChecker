@@ -2,7 +2,7 @@ using DayTimeCheckerWinApp;
 
 namespace TestProject
 {
-    public class Tests
+    public class HaiTest
     {
         DateTimeChecker dateTimeChecker;
         [SetUp]
@@ -14,8 +14,7 @@ namespace TestProject
         [Test]
         public void Test1()
         {
-            
-            Assert.AreEqual(29,dateTimeChecker.DayInMonth(2023,2));
+            Assert.AreEqual(28,dateTimeChecker.DayInMonth(2023,2));
         }
     }
 }

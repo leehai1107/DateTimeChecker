@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DayTimeCheckerWinApp", "DayTimeCheckerWinApp\DayTimeCheckerWinApp.csproj", "{5533B50C-154E-443C-BAD3-803912A28983}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{ED70B59F-34F3-4297-A478-EFE86809D4CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HaiTestProject", "TestProject\HaiTestProject.csproj", "{ED70B59F-34F3-4297-A478-EFE86809D4CE}"
 	ProjectSection(ProjectDependencies) = postProject
 		{5533B50C-154E-443C-BAD3-803912A28983} = {5533B50C-154E-443C-BAD3-803912A28983}
 	EndProjectSection
