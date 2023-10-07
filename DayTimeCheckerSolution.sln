@@ -10,7 +10,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HaiTestProject", "TestProje
 		{5533B50C-154E-443C-BAD3-803912A28983} = {5533B50C-154E-443C-BAD3-803912A28983}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YenTestProject.nUnitTest", "YenTestProject\YenTestProject.nUnitTest.csproj", "{C4D8D363-9B49-4ADD-ADDE-C276944794CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YenTestProject.nUnitTest", "YenTestProject\YenTestProject.nUnitTest.csproj", "{C4D8D363-9B49-4ADD-ADDE-C276944794CC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhongTestProject", "PhongTestProject\PhongTestProject.csproj", "{C78E7F2E-F4C1-4327-A783-0F7153B1ADF1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,6 +32,10 @@ Global
 		{C4D8D363-9B49-4ADD-ADDE-C276944794CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4D8D363-9B49-4ADD-ADDE-C276944794CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4D8D363-9B49-4ADD-ADDE-C276944794CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C78E7F2E-F4C1-4327-A783-0F7153B1ADF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C78E7F2E-F4C1-4327-A783-0F7153B1ADF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C78E7F2E-F4C1-4327-A783-0F7153B1ADF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C78E7F2E-F4C1-4327-A783-0F7153B1ADF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
