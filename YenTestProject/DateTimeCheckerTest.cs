@@ -42,7 +42,7 @@ namespace YenTestProject.nUnitTest
         }
 
         [TestCase(31, 3, 2009)]
-        public void UTCID05(byte day, byte month, short year)
+        public void UTCID05_ValidDate(byte day, byte month, short year)
         {
             Assert.AreEqual(true, dateTimeChecker.IsValidDate(day, month, year));
         }
